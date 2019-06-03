@@ -1,0 +1,16 @@
+{
+  "weather": [
+    {
+      "description": "clear sky"
+    }
+  ],
+  "main": {
+    "temp": 10.2
+  },
+  "dt": 1558573637,
+  "sys": {
+    "sunrise": 1558583912,
+    "sunset": 1558641375
+  },
+  "name": "London"
+}
